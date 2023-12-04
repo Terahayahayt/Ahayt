@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia", ID: SCTV 
+https://etslive-2-vidio-com.akamaized.net/exp=1700833080~acl=/hls-p/ingest_204_*/*~hmac=f2b5921bfb7135ea5ab0d3df090cb1514823905f500fac4feaec3dd8fed0c07c/hls-p/ingest_204_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia", ID: TransTV  https://etslive-2-vidio-com.secureswiftcontent.com/exp=1700833300~acl=/vp9/733_stream.mpd!/vp9/733/*!/vp9/*/733_stream.mpd!/vp9/*/733/*~hmac=124e99372e0a5cccbee40986b42080abba5d879c5668fd53b214aede2cc9eee0/vp9/733_stream.mpd
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia", ID: Trans7
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1700833379~acl=/vp9/734_stream.mpd!/vp9/734/*!/vp9/*/734_stream.mpd!/vp9/*/734/*~hmac=bd517f6065410aa85a3c50e856e70260a429418d0aa05f52ff67a69318116fd5/vp9/734_stream.mpd
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia", ID: tvOne
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1700833438~acl=/vp9/783_stream.mpd!/vp9/783/*!/vp9/*/783_stream.mpd!/vp9/*/783/*~hmac=88db81f9d110ffbe97ffe0bdd01eb4a0bb6bcc61b1e4ed426b0e33d70bee1006/vp9/783_stream.mpd
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia", ID: mini
+https://etslive-2-vidio-com.akamaized.net/exp=1700833502~acl=/hls-p/ingest_206_*/*~hmac=fd2ce3b3b501a2839f59c7ea456aeba981295810769f10c17751d60e958e9fec/hls-p/ingest_206_1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia", ID: ANTV
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1700833589~acl=/vp9/782_stream.mpd!/vp9/782/*!/vp9/*/782_stream.mpd!/vp9/*/782/*~hmac=ab70409120f4809645e228fd97810623d7fa3a3e328b0ede86b9966602dfe40a/vp9/782_stream.mpd
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia", ID: nettv 
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1700833633~acl=/vp9/875_stream.mpd!/vp9/875/*!/vp9/*/875_stream.mpd!/vp9/*/875/*~hmac=3fea407d545a111eb25704b71f79ad7fa4e0f8ab1614ee5c58af0ce929fc4355/vp9/875_stream.mpd
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia", ID: RTV 
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1700833698~acl=/hls-p/ingest_1561_*/*~hmac=b99b8d6a054f6f0f2a3eadb395232cecfb60db91ed20b20fcf9229f27f7191ba/hls-p/ingest_1561_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia", ID: RCTI
+https://1m-rcti.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1700855468-10a339a7056f2b286f37ef642810dec6-0-8d1731baa7fb0a1141a5d753111db182
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia", ID: MNCTV
+https://1m-mnctv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1700837570-4bf27bb4c7d776b8a30783aca0e78166-0-2428fdf88d37d51098438afa78c8f0fe
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia", ID: gtv
+https://1m-gtv.rctiplus.id/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8?auth_key=1700837607-794ba329f2991834874e49241d8dbf4c-0-f5642b48d2c3bf35fd068eaec8ed35e1
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia", ID: inews
+https://1m-inews.rctiplus.id/inews-sdi-avc1_800000=18-mp4a_96000=1.m3u8?auth_key=1700837645-91fe4bf2fd9903011f709098cb7e7223-0-a069155c56d24d6cc5d2134f4f87edb6
+  
+ 
+
